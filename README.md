@@ -1,7 +1,7 @@
 
 <div>
 <h2>Hi 👋, I'm Aditya</h2>
-<h5>a cloud native engineer working for SAP, collaborating both on enterprise hosted and external Github.</h5>
+<h4>a cloud native engineer working for SAP, collaborating both on enterprise hosted and external Github.</h4>
 </div>
 <div>
 <h2>Github stats (external):</h2> 
