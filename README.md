@@ -1,4 +1,20 @@
-### Hi there 👋
+
+<div>
+<h2>Hi 👋, I'm Aditya</h2>
+<h5>a cloud native engineer working for SAP, collaborating both on enterprise hosted and external Github.</h5>
+</div>
+<div>
+<h2>Github stats (external):</h2> 
+  <p align="center">
+      <a href="https://www.linkedin.com/in/aditya-bhatia-1b75aa7b/">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityabhatia&theme=vision-friendly-dark" />
+      </a>
+      <br />
+      <a href="https://www.linkedin.com/in/aditya-bhatia-1b75aa7b/">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?show_icons=true&username=adityabhatia&theme=vision-friendly-dark" />
+      </a>
+  </p>
+</div>
 
 <!--
 **adityabhatia/adityabhatia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
