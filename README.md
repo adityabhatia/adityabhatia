@@ -6,11 +6,11 @@
 <div>
 <h2>Github stats (external):</h2> 
   <p align="center">
-      <a href="https://www.linkedin.com/in/aditya-bhatia-1b75aa7b/">
+      <a href="https://www.linkedin.com/in/aditya-bh/">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityabhatia&theme=vision-friendly-dark" />
       </a>
       <br />
-      <a href="https://www.linkedin.com/in/aditya-bhatia-1b75aa7b/">
+      <a href="https://www.linkedin.com/in/aditya-bh/">
         <img align="center" src="https://github-readme-stats.vercel.app/api?show_icons=true&username=adityabhatia&theme=vision-friendly-dark" />
       </a>
   </p>
