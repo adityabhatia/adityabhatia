@@ -1,5 +1,5 @@
 
-<div>
+<!--<div>
 <h2>Hi 👋, I'm Aditya</h2>
 <h4>a cloud native engineer working for SAP, collaborating both on enterprise hosted and external Github.</h4>
 </div>
@@ -16,7 +16,6 @@
   </p>
 </div>
 
-<!--
 **adityabhatia/adityabhatia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
