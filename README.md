@@ -1,9 +1,10 @@
 
-<!--<div>
-<h2>Hi 👋, I'm Aditya</h2>
-<h4>a cloud native engineer working for SAP, collaborating both on enterprise hosted and external Github.</h4>
-</div>
 <div>
+<h2>Hi 👋, I'm Aditya</h2>
+<h4>a cloud native engineer working for VMware, currently on downstream customer projects, collaborating both enterprise-wide and on public spaces.</h4>
+</div>
+
+<!--<div>
 <h2>Github stats (external):</h2> 
   <p align="center">
       <a href="https://www.linkedin.com/in/aditya-bh/">
