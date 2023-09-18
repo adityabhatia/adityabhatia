@@ -1,4 +1,3 @@
-
 <div>
 <h2>Hi 👋, I'm Aditya</h2>
 <h4>a cloud native engineer working for VMware, currently on downstream customer projects, collaborating both enterprise-wide and on public spaces.</h4>
