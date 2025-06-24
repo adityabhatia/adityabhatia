@@ -7,7 +7,7 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Full-year calendar
+      - name: calendar
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.fullyear.svg
@@ -20,6 +20,7 @@ jobs:
           template: classic
 
       - uses: lowlighter/metrics@latest
+        name: achievements
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_SECRET }}
@@ -33,22 +34,11 @@ jobs:
           plugin_achievements_limit: 0         
     
       - uses: lowlighter/metrics@latest
+        name: lines
         with:
           filename: lines-of-code.svg
           token: ${{ secrets.METRICS_SECRET }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "repositories"
           plugin_lines: yes
-
-      - uses: lowlighter/metrics@latest
-        with:
-          template: repository
-          filename: metrics.repository.svg
-          token: ${{ secrets.METRICS_SECRET }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: adityabhatia
-          repo: metrics
-          plugin_lines: yes
-          plugin_followup: yes
-          plugin_projects: yes
-          plugin_projects_repositories: lowlighter/metrics/projects/1
