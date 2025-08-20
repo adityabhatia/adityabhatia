@@ -3,7 +3,7 @@
 </div>
 
 - 🔭 I’m currently working on cluster lifecycle and infra downstream projects
-- 💻 Staff Software Engineer at VMware by Broadcom
+- 💻 Cloud DevOps Expert at SAP
 - 💬 Ask me about Go, Javascript / Typescript, Kubernetes, cloud infrastructure, observability, infrastructure as code (IaC), DevOps
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/aditya-bh/">Linkedin</a>
